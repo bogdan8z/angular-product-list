@@ -19,7 +19,8 @@ import { ProductAlertsComponent } from './product-alerts/product-alerts.componen
   imports: [
     BrowserModule,
     RouterModule.forRoot([
-      {path: '', component: ProductListComponent}
+      {path: '', component: ProductListComponent},
+      {path: 'products/:productId', component: ProductDetailsComponent}
     ])
   ],
   providers: [],

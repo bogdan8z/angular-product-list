@@ -1,4 +1,4 @@
-# App1
+# Product List
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
 ## Development server
@@ -26,3 +26,20 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 
+## Steps<br/>
+
+> ng generate component my-comp1<br />
+> ng serve --open<br />
+
+## Links
+
+**this is the tutorial from https://angular.io/start<br />
+https://angular.io/guide/lifecycle-hooks<br />
+https://www.typescriptlang.org/docs/handbook/2/classes.html<br />
+https://angular.io/guide/architecture-components#data-binding<br />
+https://angular.io/guide/setup-local#install-the-angular-cli<br />
+https://angular.io/tutorial<br />
+https://stackblitz.com<br />
+https://www.geeksforgeeks.org/top-10-vs-code-extensions-for-angular-developers/<br />
+https://angular.io/guide/pipes<br />
+<a href="https://angular.io/guide/setup-local">set up a local work environment</a>

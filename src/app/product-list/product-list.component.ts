@@ -6,11 +6,8 @@ import {products, Product} from '../products';
   templateUrl: './product-list.component.html',
   styleUrls: ['./product-list.component.css']
 })
-export class ProductListComponent implements OnInit {
+export class ProductListComponent {
   products  = products;
-  constructor() { }
-  ngOnInit(): void {
-  }
   share(){
     console.log('The product has been shared!');
   }

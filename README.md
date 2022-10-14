@@ -30,6 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 > ng generate component my-comp1<br />
 > ng serve --open<br />
+> ng generate service serv1 <br />
 
 ## Links
 
@@ -44,4 +45,5 @@ https://angular.io/tutorial<br />
 https://stackblitz.com<br />
 https://www.geeksforgeeks.org/top-10-vs-code-extensions-for-angular-developers/<br />
 https://angular.io/guide/pipes<br />
-https://angular.io/guide/inputs-outputs
+https://angular.io/guide/inputs-outputs<br />
+https://angular.io/guide/router<br />

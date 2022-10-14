@@ -34,6 +34,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Links
 
 **this is the tutorial from https://angular.io/start<br />
+<a href="https://angular.io/guide/setup-local">set up a local work environment</a><br />
 https://angular.io/api/router/RouterOutlet<br />
 https://angular.io/guide/lifecycle-hooks<br />
 https://www.typescriptlang.org/docs/handbook/2/classes.html<br />
@@ -43,4 +44,4 @@ https://angular.io/tutorial<br />
 https://stackblitz.com<br />
 https://www.geeksforgeeks.org/top-10-vs-code-extensions-for-angular-developers/<br />
 https://angular.io/guide/pipes<br />
-<a href="https://angular.io/guide/setup-local">set up a local work environment</a>
+https://angular.io/guide/inputs-outputs

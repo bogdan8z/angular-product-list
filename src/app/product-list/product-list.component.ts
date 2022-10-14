@@ -9,12 +9,13 @@ import {products, Product} from '../products';
 export class ProductListComponent implements OnInit {
   products  = products;
   constructor() { }
-
   ngOnInit(): void {
   }
-
   share(){
     console.log('The product has been shared!');
+  }
+  onNotif(){
+    console.log('notified!');
   }
 
 }

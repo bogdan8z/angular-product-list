@@ -34,6 +34,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Links
 
 **this is the tutorial from https://angular.io/start<br />
+https://angular.io/api/router/RouterOutlet<br />
 https://angular.io/guide/lifecycle-hooks<br />
 https://www.typescriptlang.org/docs/handbook/2/classes.html<br />
 https://angular.io/guide/architecture-components#data-binding<br />

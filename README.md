@@ -47,3 +47,5 @@ https://www.geeksforgeeks.org/top-10-vs-code-extensions-for-angular-developers/<
 https://angular.io/guide/pipes<br />
 https://angular.io/guide/inputs-outputs<br />
 https://angular.io/guide/router<br />
+https://angular.io/guide/http<br />
+https://angular.io/api/common/AsyncPipe<br />

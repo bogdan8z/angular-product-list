@@ -1,3 +1,6 @@
+/*!********************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./src/styles.css ***!
+  \********************************************************************************************************************************************************************************************************/
 /* Global Styles */
 
 * {
@@ -70,6 +73,7 @@
   }
   
   /* Button */
+  
   .button, button {
     display: inline-flex;
     align-items: center;
@@ -137,9 +141,10 @@
     background-color: #EEEEEE;
   }
   
-  
   /*
   Copyright Google LLC. All Rights Reserved.
   Use of this source code is governed by an MIT-style license that
   can be found in the LICENSE file at https://angular.io/license
   */
+  
+  /*# sourceMappingURL=styles.css.map*/

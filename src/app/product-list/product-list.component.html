@@ -1,6 +1,6 @@
 <h2>Products</h2>
-<div *ngFor="let product of products" class="row">
-    <hr />
+<hr />
+<div *ngFor="let product of products" class="row">   
     <h3>
         <a
         [title]="product.name + ' details'"
@@ -16,4 +16,5 @@
     (notif)="onNotif()"
     >
     </app-product-alerts>
+    <hr />
 </div>

@@ -3,5 +3,8 @@
     <h3>{{product.name}}</h3>
     <h4>{{product.price | currency}}</h4>
     <h5>{{product.description}}</h5>
-</div>
+    <div>
+        <button (click)="addToCart(product)" type="button">Buy</button>
+    </div>
+</div><br />
 <a [routerLink]="['']">Back</a>
